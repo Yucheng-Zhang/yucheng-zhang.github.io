@@ -67,7 +67,7 @@ Publications
   T‑W Lan, ..., **Y Zhang** et al., Astrophys. J. 943, 68 (2023), arXiv:
   2208.08516.
 * pmwd: A Differentiable Cosmological Particle‑Mesh N‑body Library\
-* Y Li, L Lu, C Modi, D Jamieson, **Y Zhang** et al., arXiv: 2211.09958.
+  Y Li, L Lu, C Modi, D Jamieson, **Y Zhang** et al., arXiv: 2211.09958.
 * Joint analyses of 2D CMB lensing and 3D galaxy clustering in the spherical
   Fourier‑Bessel basis\
   **Y Zhang**, A R Pullen and A S Maniyar, Phys. Rev. D 104, 103523 (2021),
