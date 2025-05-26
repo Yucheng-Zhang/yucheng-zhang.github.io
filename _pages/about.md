@@ -19,11 +19,11 @@ scientific computing, and physics.
 He is mainly working on developing and optimizing physical modeling at
 multiscales with differentiable simulation and deep learning.
 Reconstructing traditional scientific simulations in the state-of-art machine
-learning libraries like [JAX](https://jax.readthedocs.io/) makes these
+learning libraries like JAX makes these
 simulations differentiable and optimizable with neural surrogates.
 He is now mainly focusing on the numerical simulation of cardiac
 electrophysiology, and he has also been working on cosmological N-body
-simulation (see [pmwd](https://github.com/eelregit/pmwd)).
+simulation.
 
 
 Position
@@ -63,7 +63,7 @@ Publications
 * The DESI Survey Validation: Results from Visual Inspection of Bright Galaxies,
   Luminous Red Galaxies, and Emission‑line Galaxies, T‑W Lan, ..., **Y Zhang**
   et al., Astrophys. J. 943, 68 (2023), arXiv: 2208.08516.
-* pmwd: A Differentiable Cosmological Particle‑Mesh 𝑁‑body Library, Y Li, L Lu,
+* pmwd: A Differentiable Cosmological Particle‑Mesh N‑body Library, Y Li, L Lu,
   C Modi, D Jamieson, **Y Zhang** et al., arXiv: 2211.09958.
 * Joint analyses of 2D CMB lensing and 3D galaxy clustering in the spherical
   Fourier‑Bessel basis, **Y Zhang**, A R Pullen and A S Maniyar, Phys. Rev. D
