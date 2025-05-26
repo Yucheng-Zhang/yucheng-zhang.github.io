@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yucheng Zhang"
+title                    : "Yucheng Zhang's Personal Homepage"
 title_separator          : "-"
-name                     : &name "Yucheng Zhang's Personal Homepage"
+name                     : &name "Yucheng Zhang"
 description              : &description "Assistant researcher at Pengcheng Lab; PhD in Physics."
 url                      : https://yucheng-zhang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   name             : "Yucheng Zhang (张宇澄)"
   pronouns         : # example: "she/her"
   bio              : "Assistant researcher at Pengcheng Lab; PhD in Physics."
-  location         : "Shenzhen China"
+  location         : "Shenzhen, China"
   employer         : "Pengcheng Laboratory"
   uri              : # URL
   email            : "yczhang.nyu@gmail.com"
